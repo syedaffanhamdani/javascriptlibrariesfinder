@@ -8,12 +8,7 @@ import com.scale.assignment.utils.StringUtils;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Collectors;
 
-/**
- * Hello world!
- *
- */
 public class App
 {
     private static final String base_url="https://www.google.com/search?q=";
